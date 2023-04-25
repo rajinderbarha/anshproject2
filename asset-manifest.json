@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anshproject2/static/css/main.c3860723.css",
+    "main.css": "/anshproject2/static/css/main.e4910a74.css",
     "main.js": "/anshproject2/static/js/main.f281c646.js",
     "static/js/787.28cb0dcd.chunk.js": "/anshproject2/static/js/787.28cb0dcd.chunk.js",
     "static/media/Running.svg": "/anshproject2/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
@@ -10,12 +10,12 @@
     "static/media/right-img.svg": "/anshproject2/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "static/media/logo.svg": "/anshproject2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/anshproject2/index.html",
-    "main.c3860723.css.map": "/anshproject2/static/css/main.c3860723.css.map",
+    "main.e4910a74.css.map": "/anshproject2/static/css/main.e4910a74.css.map",
     "main.f281c646.js.map": "/anshproject2/static/js/main.f281c646.js.map",
     "787.28cb0dcd.chunk.js.map": "/anshproject2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3860723.css",
+    "static/css/main.e4910a74.css",
     "static/js/main.f281c646.js"
   ]
 }
