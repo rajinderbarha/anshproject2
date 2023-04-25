@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anshproject2/static/css/main.7ca683b8.css",
+    "main.css": "/anshproject2/static/css/main.c9535e91.css",
     "main.js": "/anshproject2/static/js/main.be0cab70.js",
     "static/js/787.28cb0dcd.chunk.js": "/anshproject2/static/js/787.28cb0dcd.chunk.js",
     "static/media/Running.svg": "/anshproject2/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
@@ -12,12 +12,12 @@
     "static/media/right-img.svg": "/anshproject2/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "index.html": "/anshproject2/index.html",
     "static/media/_gamerpay-symbol.svg": "/anshproject2/static/media/62fe0836e336482825f6ccb4_gamerpay-symbol.910096ba6e7f46a12f3f923612241fb2.svg",
-    "main.7ca683b8.css.map": "/anshproject2/static/css/main.7ca683b8.css.map",
+    "main.c9535e91.css.map": "/anshproject2/static/css/main.c9535e91.css.map",
     "main.be0cab70.js.map": "/anshproject2/static/js/main.be0cab70.js.map",
     "787.28cb0dcd.chunk.js.map": "/anshproject2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ca683b8.css",
+    "static/css/main.c9535e91.css",
     "static/js/main.be0cab70.js"
   ]
 }
