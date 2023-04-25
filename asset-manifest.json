@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anshproject2/static/css/main.f486551a.css",
-    "main.js": "/anshproject2/static/js/main.f281c646.js",
+    "main.css": "/anshproject2/static/css/main.5d31360f.css",
+    "main.js": "/anshproject2/static/js/main.6f268e1b.js",
     "static/js/787.28cb0dcd.chunk.js": "/anshproject2/static/js/787.28cb0dcd.chunk.js",
     "static/media/Running.svg": "/anshproject2/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
     "static/media/_Influencer Froot (1).svg": "/anshproject2/static/media/6340255dae4cf97496aa010e_Influencer Froot (1).759068c498b1203dd78175bccea605d3.svg",
@@ -10,12 +10,12 @@
     "static/media/right-img.svg": "/anshproject2/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "static/media/logo.svg": "/anshproject2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/anshproject2/index.html",
-    "main.f486551a.css.map": "/anshproject2/static/css/main.f486551a.css.map",
-    "main.f281c646.js.map": "/anshproject2/static/js/main.f281c646.js.map",
+    "main.5d31360f.css.map": "/anshproject2/static/css/main.5d31360f.css.map",
+    "main.6f268e1b.js.map": "/anshproject2/static/js/main.6f268e1b.js.map",
     "787.28cb0dcd.chunk.js.map": "/anshproject2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f486551a.css",
-    "static/js/main.f281c646.js"
+    "static/css/main.5d31360f.css",
+    "static/js/main.6f268e1b.js"
   ]
 }
