@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/anshproject2/static/css/main.4da8848b.css",
-    "main.js": "/anshproject2/static/js/main.be0cab70.js",
+    "main.css": "/anshproject2/static/css/main.c59a1982.css",
+    "main.js": "/anshproject2/static/js/main.596fe2fe.js",
     "static/js/787.28cb0dcd.chunk.js": "/anshproject2/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Imgg-3.png": "/anshproject2/static/media/Imgg-3.d20a744bb4b309e6e6be.png",
     "static/media/Running.svg": "/anshproject2/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
     "static/media/man1.jpg": "/anshproject2/static/media/man1.91bd8ee4ff67a190c451.jpg",
     "static/media/_Influencer Froot (1).svg": "/anshproject2/static/media/6340255dae4cf97496aa010e_Influencer Froot (1).759068c498b1203dd78175bccea605d3.svg",
     "static/media/_Influencer Froot.svg": "/anshproject2/static/media/6340255dae4cf97496aa010e_Influencer Froot.759068c498b1203dd78175bccea605d3.svg",
+    "static/media/Img-4.png": "/anshproject2/static/media/Img-4.70781963a43bae7d73ff.png",
+    "static/media/Img-1.png": "/anshproject2/static/media/Img-1.00d4f4ab62a023114088.png",
+    "static/media/Img-2.png": "/anshproject2/static/media/Img-2.e46917674c092b2b47fc.png",
     "static/media/firstimg.jpg": "/anshproject2/static/media/firstimg.8bd92581306c35d786ea.jpg",
     "static/media/360_F_303514968_eeVPWukEGgHye26kCRBK7A7FQk8HLeVq.webp": "/anshproject2/static/media/360_F_303514968_eeVPWukEGgHye26kCRBK7A7FQk8HLeVq.db5e8b5655e817bbc12e.webp",
     "static/media/right-img.svg": "/anshproject2/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "index.html": "/anshproject2/index.html",
     "static/media/_gamerpay-symbol.svg": "/anshproject2/static/media/62fe0836e336482825f6ccb4_gamerpay-symbol.910096ba6e7f46a12f3f923612241fb2.svg",
-    "main.4da8848b.css.map": "/anshproject2/static/css/main.4da8848b.css.map",
-    "main.be0cab70.js.map": "/anshproject2/static/js/main.be0cab70.js.map",
+    "main.c59a1982.css.map": "/anshproject2/static/css/main.c59a1982.css.map",
+    "main.596fe2fe.js.map": "/anshproject2/static/js/main.596fe2fe.js.map",
     "787.28cb0dcd.chunk.js.map": "/anshproject2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4da8848b.css",
-    "static/js/main.be0cab70.js"
+    "static/css/main.c59a1982.css",
+    "static/js/main.596fe2fe.js"
   ]
 }
